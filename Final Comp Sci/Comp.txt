@@ -1,0 +1,10 @@
+Apple,tech.,Smith: Bob, VP Sales, 3000, 
+Amazon,tech.,Green: Joe, Director Sales, 4000
+Microsoft,tech., Simon: Matt, Marketing Manager, 5500
+Nike,sports,Hays:Brendan, VP Sales,2000 
+Under Amour,sports,Gustafson: Zach, VP Marketing, 10000
+Blue Cross,insurance,James: Gus, Head of Sales, 5000
+Biofloat,biotech, Andrews: John, Head of HR, 2000
+Ford,motor vehicle, Jordan: Foster, VP Sales , 4500 
+Tesla,motor vehicle, Brown: Jim, Director Marketing, 3000
+        

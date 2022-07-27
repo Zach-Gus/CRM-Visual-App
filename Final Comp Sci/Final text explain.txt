@@ -1,0 +1,5 @@
+1) Open the Final.py.
+2) Enter in data of the new sale based on what each prompt of the input box tells you to do. Its important for the industry text box that you enter in lets say the biotech industry exactly the way the prompt tells you to so the bar graphs add to that industry and the biotech contact list gets appended the new contact just created.
+3) Once you have entered the input properly click the input button to bring up the next window. 
+4) In the next window you can look at the bar graphs and then look at the shell to see the contact list of the specific industry. 
+ 
